@@ -15,7 +15,7 @@
 
 ###
 
-<h1 align="center">hey there 👋, Karim Khaled</h1>
+<h1 align="center">hey there 👋, I'm Karim Khaled</h1>
 
 ###
 
