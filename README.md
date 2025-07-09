@@ -15,24 +15,31 @@
 
 ###
 
-<h1 align="center">hey there 👋, I'm Karim Khaled</h1>
+<h1 align="center">Hey there 👋, I'm Karim Khaled</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+### 👨‍💻 About Me
 
-###
+- 🔭 I’m currently working as a **System Administrator**  
+- 🌱 I’m currently learning **DevOps culture** and preparing for **AWS Solutions Architect - Associate**  
+- 🎯 My goal is to become a **DevOps Engineer**  
+- 🎬 In my free time, I enjoy watching movies and exploring new technologies  
 
-<p align="left">I'm karim from Alexandria, Egypt<br><br>- 🔭 I’m working as System Administrator<br>- 📚 I'm currently learning DevOps Culture<br>- ⚡ In my free time i watch movies</p>
+---
 
-###
+### 🏅 Certifications
 
-<h3 align="left">🛠 Language and tools</h3>
+![RHCSA](https://img.shields.io/badge/RHCSA-Certified-red?style=for-the-badge&logo=redhat)
+![AWS](https://img.shields.io/badge/AWS_Solutions_Architect_Associate-In_Progress-orange?style=for-the-badge&logo=amazonaws)
+![IBM Docker](https://img.shields.io/badge/Docker%20Essentials-IBM-blue?style=for-the-badge&logo=docker)
 
-###
+---
+
+### 🛠 Languages and Tools
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="aws logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo" />
   <img width="12" />
@@ -44,4 +51,31 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansi
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo" />
+</div>
+
+---
+
+### 🚀 Projects
+
+- 🔧 [Linux Automation Scripts](https://github.com/karim664/linux-scripts) – Useful bash scripts for sysadmin tasks  
+- 📦 [Dockerized Flask App](https://github.com/karim664/docker-flask-app) – A simple flask app containerized using Docker  
+- 🌐 [Portfolio Website](https://karim664.github.io) – *(if available)*  
+
+---
+
+### 🔥 GitHub Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=karim664&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+</div>
+
+---
+
+<!--
+System Administrator | DevOps Engineer | Linux | Docker | Ansible | Jenkins | AWS | RHCSA | Terraform | GitHub Actions | Python | Bash | DevOps Culture | AWS SAA
+-->
