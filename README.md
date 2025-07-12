@@ -60,13 +60,6 @@
 
 ---
 
-### 🚀 Projects
-
-- 🔧 [Linux Automation Scripts](https://github.com/karim664/linux-scripts) – Useful bash scripts for sysadmin tasks  
-- 📦 [Dockerized Flask App](https://github.com/karim664/docker-flask-app) – A simple flask app containerized using Docker  
-- 🌐 [Portfolio Website](https://karim664.github.io) – *(if available)*  
-
----
 
 ### 🔥 GitHub Stats
 
